@@ -1,0 +1,76 @@
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Convertisseur.exe.config
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Convertisseur.exe
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Convertisseur.pdb
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Convertisseur.xml
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Guna.UI2.dll
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.AssemblyReference.cache
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Form1.resources
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Resources.resources
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.GenerateResource.cache
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.CoreCompileInputs.cache
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.CopyComplete
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.exe
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.xml
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.pdb
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Device.resources
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Form2.resources
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.AboutMe.resources
+F:\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Convertisseur.exe.config
+F:\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Convertisseur.exe
+F:\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Convertisseur.pdb
+F:\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Convertisseur.xml
+F:\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Guna.UI2.dll
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.AssemblyReference.cache
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.SuggestedBindingRedirects.cache
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.AboutMe.resources
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Coding.resources
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Device.resources
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Form1.resources
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Form2.resources
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Resources.resources
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.GenerateResource.cache
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.CoreCompileInputs.cache
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.CopyComplete
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.exe
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.xml
+F:\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.pdb
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\bin\Debug\Convertisseur.exe.config
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\bin\Debug\Convertisseur.exe
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\bin\Debug\Convertisseur.pdb
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\bin\Debug\Convertisseur.xml
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\bin\Debug\Guna.UI2.dll
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.AssemblyReference.cache
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.AboutMe.resources
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Coding.resources
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Device.resources
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Form1.resources
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Form2.resources
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Resources.resources
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.GenerateResource.cache
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.CoreCompileInputs.cache
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.CopyComplete
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.exe
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.xml
+C:\Users\hlinu\Desktop\Projet IHM v0.1\Convertisseur\Convertisseur\obj\Debug\Convertisseur.pdb
+C:\Users\hlinu\Desktop\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Coding2.resources
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Convertisseur.exe.config
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Convertisseur.exe
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Convertisseur.pdb
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Convertisseur.xml
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\bin\Debug\Guna.UI2.dll
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.AssemblyReference.cache
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.AboutMe.resources
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Coding2.resources
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Device.resources
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Form1.resources
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Form2.resources
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.Resources.resources
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.GenerateResource.cache
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.CoreCompileInputs.cache
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.vbproj.CopyComplete
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.exe
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.xml
+C:\Users\hlinu\Desktop\STUDY\S1\Projet IHM\Convertisseur\Convertisseur\obj\Debug\Convertisseur.pdb
